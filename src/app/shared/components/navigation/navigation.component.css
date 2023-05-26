@@ -1,0 +1,24 @@
+nav {
+    background-color: #765;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+li {
+    margin: 20px;
+}
+
+li a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+li a:hover {
+    border-bottom: 2px solid #333;
+    padding: 2px;
+}
